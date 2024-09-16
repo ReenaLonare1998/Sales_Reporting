@@ -61,7 +61,7 @@ To explore the sales report and the EDA, follow these steps:
 
 Navigate to the project folder where the notebook is located. For example, if the notebook is in the sale_reporting folder:
 ```bash
-cd sale_reporting
+cd Sale_Reporting
 ```
 2. Open the terminal and install Jupyter Notebook (if not already installed):
 
